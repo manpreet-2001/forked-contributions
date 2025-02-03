@@ -14,7 +14,7 @@ More changes from cloning.
 |                                             | Name            | Profile                          |
 | ------------------------------------------- | --------------- | -------------------------------- |
 | ![Parjad Minooei](images/ParjadMinooei.jpg) | Parjad Minooei  | [Parjad](students/parjad)        |
-| ![abjnr](images/abjnr.png)                  | Abraham Adeniyi | [abjnr](students/abjnr.markdown) |
+| ![abjnr](images/abjnr.png)                  | Abraham Adeniyi | [abjnr](students/abjnr) |
 
 > > > > > > > 1fd00cc765b5557b1dee4841e2a4867d608f79da
 
