@@ -2,12 +2,11 @@
 
 ## Chaitanya Gehi
 
-![Chait Haha](C:\Users\Chait\Desktop\Forked-Contributions\images\Chait.jpg)
+![Chait Haha]("../images/Chait.jpg" width="80")>
+I am Chait, I like to game and its my first time trying to code!
 
-Junior Full Stack Developer. I enjoy react development. My hobbies include Swimming.
-
-LinkedIn: [Ali Qasim Khundmiri](https://www.linkedin.com/in/aliqasim54321/)  
-GitHub: [aliqasim54321](https://github.com/aliqasim54321)  
+LinkedIn: [Chait Gehi](https://www.linkedin.com/in/chaitanya-gehi/)  
+GitHub: [Chait Haha](https://github.com/chaithaha)  
 
 ### Projects
 
@@ -22,3 +21,4 @@ GitHub: [aliqasim54321](https://github.com/aliqasim54321)
 <a href="https://brickmmo.com">
 <img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
 </a>
+
