@@ -6,6 +6,7 @@
 
 |                                                    | Name                   | Profile                                             |
 | -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
+| ![Saahil Sayed](images/Saahil306.jpg) | Saahil Sayed | [Saahil306](student/Saahil306) |
 
 
 ### Faculty
@@ -13,6 +14,7 @@
 |                                       | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
+
 
 [&#10132; Back to Class List](/)
 
