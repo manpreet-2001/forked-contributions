@@ -13,6 +13,7 @@ More changes from cloning.
 |                                                    | Name                   | Profile                                             |
 | -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
 | ![Parjad Minooei](images/ParjadMinooei.jpg)        | Parjad Minooei         | [Parjad](students/parjad)
+| ![Fadel Matar ] )(images/fastodigama.jpg           | Fadel Matar            | [Fadel](students/fastodigama)                       |
 
 
 ### Faculty
