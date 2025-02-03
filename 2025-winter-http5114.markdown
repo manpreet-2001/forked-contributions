@@ -11,12 +11,12 @@ More changes from cloning.
 
 ### Students
 
-|                                             | Name            | Profile                          |
-| ------------------------------------------- | --------------- | -------------------------------- |
+|                                                    | Name                   | Profile                                             |
+| -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
+| ![Ellie Dong](images/ellieDong.jpg) | Ellie Dong | [Elliedd-26](students/Elliedd-26) |
 | ![Parjad Minooei](images/ParjadMinooei.jpg) | Parjad Minooei  | [Parjad](students/parjad)        |
 | ![abjnr](images/abjnr.png)                  | Abraham Adeniyi | [abjnr](students/abjnr) |
 | ![Anna Charbadze](images/annacharbadze.jpeg) | Anna Charbadze | [Anna Charbadze](https://annacharbadze.github.io/Markdown-Portfolio/) |
-
 
 ### Faculty
 
