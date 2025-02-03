@@ -2,7 +2,7 @@
 
 ## Chaitanya Gehi
 
-![Chait Haha]("../images/Chait.jpg" width="80")>
+![Chait Haha](../images/Chait.jpg)
 I am Chait, I like to game and its my first time trying to code!
 
 LinkedIn: [Chait Gehi](https://www.linkedin.com/in/chaitanya-gehi/)  
