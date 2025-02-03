@@ -2,7 +2,7 @@
 
 ## Yao Tiem Lee
 
-![Yao Tiem Lee](images/yaolee.jpg)
+![Yao Tiem Lee](images/yaoolee.jpg)
 
 Currently a Web development student at Humber College
 
