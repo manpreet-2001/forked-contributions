@@ -10,9 +10,13 @@ More changes from cloning.
 
 ### Students
 
+
 |                                                    | Name                   | Profile                                             |
 | -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
 | ![ParjadM](images/ParjadMinooei.jpg)        | Parjad Minooei         | [Parjad](students/parjad)
+| ![Anna Charbadze](images/annacharbadze.jpeg) | Anna Charbadze | [Anna Charbadze](https://annacharbadze.github.io/Markdown-Portfolio/) |
+
+
 
 
 ### Faculty
