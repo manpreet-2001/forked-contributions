@@ -12,7 +12,7 @@ More changes from cloning.
 
 |                                                    | Name                   | Profile                                             |
 | -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
-
+| ![Bernard Owusu-Mensah](images/bernardowusumensah.png) | Bernard Owusu-Mensah | [bernardowusumensah](student/bernardowusumensah) |
 
 ### Faculty
 
