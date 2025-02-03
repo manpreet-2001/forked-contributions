@@ -14,6 +14,7 @@ More changes from cloning.
 | --- | ---- | ------- |
 | ![Anna Charbadze](images/annacharbadze.jpeg) | Anna Charbadze | [Anna Charbadze](https://annacharbadze.github.io/Markdown-Portfolio/) |
 | ![Parjad Minooei](images/ParjadMinooei.jpg)        | Parjad Minooei         | [Parjad](students/parjad)
+| ![Baran Aslankan](images/baranaslankan.jpg) | Baran Aslankan | [baranaslankan](students/baranaslankan) |
 
 
 ### Faculty
