@@ -4,12 +4,11 @@
 
 Change added by original!
 
-
 ### Students
 
-|                                                    | Name                   | Profile                                             |
-| -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
-
+|                                         | Name         | Profile                             |
+| --------------------------------------- | ------------ | ----------------------------------- |
+| ![Samuel Owusu](images/SamuelNii32.jpg) | Samuel Owusu | [SamuelNii32](students/SamuelNii32) |
 
 ### Faculty
 
