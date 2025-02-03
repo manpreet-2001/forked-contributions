@@ -4,15 +4,17 @@
 
 ### Students
 
-|                                                    | Name                   | Profile                                             |
-| -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
+|                                       | Name        | Profile                          |
+| ------------------------------------- | ----------- | -------------------------------- |
+| ![Pallavi Kandikanti](images/GITHUB_Pallavikandikanti846.jpg) | Pallavi Kandikanti | [Pallavikandikanti](students/GITHUB_Pallavikandikanti846.markdown) |
+
 
 
 ### Faculty
 
 |                                       | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
-| ![Pallavi Kandikanti](images/GITHUB_Pallavikandikanti846.jpg) | Pallavi Kandikanti | [Pallavikandikanti](students/GITHUB_Pallavikandikanti846.markdown) |
+| ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
 
 [&#10132; Back to Class List](/)
 
