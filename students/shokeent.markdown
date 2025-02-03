@@ -1,6 +1,7 @@
+<style>@import url("//readme.codeadam.ca/readme.css");</style>
+
 ## Tarun Shokeen
 
-[Tarun Shokeen]<img src="/images/shokeent.png" alt="Tarun Shokeen"width="80"/>
 
 
 Hi Everyone, My Name Is Tarun Shokeen.
@@ -16,18 +17,13 @@ Portfolio: [https://github.com/Shokeent/markdown-portfolio.git](https://github.c
 ### Projects
 
 | Project |
-| ------- | ------------------------------------------------------------- |
+| ------- |
+
 | Flow    | [https://brickmmo.github.io/flow-about/](https://brickmmo.github.io/flow-about/) |
+
 | Tasks   | [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/)                       |
 
 
-| ![Tarun Shokeen] (students/shokeent) |
+ 
+![Tarun Shokeen](../images/shokeent.png) Tarun Shokeen | [Shokeent](students/shokeent) |
 
-
-[&#10132; Back to Class List](/)
-
----
-
-<a href="https://brickmmo.com">
-<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
-</a>
