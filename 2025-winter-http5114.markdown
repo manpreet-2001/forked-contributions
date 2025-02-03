@@ -12,7 +12,7 @@
 
 |                                       | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
-| ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
+| ![Pallavi Kandikanti](images/GITHUB_Pallavikandikanti846.jpg) | Pallavi Kandikanti | [Pallavikandikanti](students/GITHUB_Pallavikandikanti846.markdown) |
 
 [&#10132; Back to Class List](/)
 
