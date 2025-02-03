@@ -1,8 +1,4 @@
-<style>@import url("//readme.codeadam.ca/readme.css");</style>
-
 ## Tarun Shokeen
-
-
 
 Hi Everyone, My Name Is Tarun Shokeen.
 
