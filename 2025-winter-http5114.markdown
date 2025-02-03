@@ -2,17 +2,24 @@
 
 ## Workshops in Web Development 1 - HTTP5114 - Fall 2023
 
+Change added by original!
+
+This is my change.
+
+More changes from cloning.
+
 ### Students
-
-|     | Name | Profile |
-| --- | ---- | ------- |
-
-### Faculty
 
 |                                              | Name           | Profile                                           |
 | -------------------------------------------- | -------------- | ------------------------------------------------- |
-| ![Adam Thomas](images/codeadamca.png)        | Adam Thomas    | [codeadamca](faculty/codeadamca)                  |
 | ![Anna Charbadze](images/annacharbadze.jpeg) | Anna Charbadze | [Anna Charbadze](students/annacharbadze.markdown) |
+| ![Parjad Minooei](images/ParjadMinooei.jpg)  | Parjad Minooei | [Parjad](students/parjad)                         |
+
+### Faculty
+
+|                                       | Name        | Profile                          |
+| ------------------------------------- | ----------- | -------------------------------- |
+| ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
 
 [&#10132; Back to Class List](/)
 

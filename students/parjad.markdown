@@ -1,0 +1,16 @@
+This page Includes Information About me
+
+# Info
+**First Name: Parjad** 
+**Last Name: Minooei**
+
+
+## Profile Image
+![Parjad Minooei](../images/ParjadMinooei.jpg)
+
+## Contact Info
+- [Humber](n01686347@humber.ca)
+- [Hotmail](minooeip@Hotmail.com)
+- [Github](https://www.linkedin.com/in/parjadminooei/)
+- [LinkedIn](www.linkedin.com/in/parjadminooei)
+- [Profile](https://parjadm.github.io/markdown-portfolio/)
