@@ -6,7 +6,7 @@
 
 |                                                    | Name                   | Profile                                             |
 | -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
-
+| ![Ellie Dong](images/ellieDong.jpg) | Ellie Dong | [Elliedd-26](students/Elliedd-26) |
 
 ### Faculty
 
