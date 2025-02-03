@@ -13,6 +13,7 @@
 |                                       | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
+| ![Priyank Shah](images/Priyankshah01.jpeg) | Priyank Shah | [Priyankshah01](students/Priyankshah01) |
 
 [&#10132; Back to Class List](/)
 
