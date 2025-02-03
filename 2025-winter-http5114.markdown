@@ -19,6 +19,7 @@ More changes from cloning.
 |                                       | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
+| ![Mayuresh Naidu](/images/meiyo99.jpg) | Mayuresh Naidu | [meiyo99](student/meiyo99) |
 
 [&#10132; Back to Class List](/)
 
