@@ -18,10 +18,3 @@ Hey there! I’m a **UX Engineer & Designer** based in **Toronto, Canada** with 
 | ------- | -------------------------------------------------------------------------------- |
 | Flow    | [https://brickmmo.github.io/flow-about/](https://brickmmo.github.io/flow-about/) |
 | Tasks   | [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/)                       |
-
----
-
-### 📜 Student Contributions
-| ![Mahak Patel](../images/oyemahak.png) | Mahak Patel | [oyemahak](students/oyemahak) |
-
----

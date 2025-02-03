@@ -13,7 +13,7 @@
 |                                       | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
-| ![Mahak Patel](images/oyemahak.png)   | Mahak Patel | [oyemahak](faculty/codeadamca)   |
+| ![Mahak Patel](images/oyemahak.png)   | Mahak Patel | [oyemahak](students/oyemahak)    |
 
 [&#10132; Back to Class List](/)
 
