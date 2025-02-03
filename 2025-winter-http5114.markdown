@@ -6,7 +6,7 @@
 
 |                                                    | Name                   | Profile                                             |
 | -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
-
+| ![Yao Tiem Lee](images/yaolee.jpg)                 | Yao Tiem Lee           | [yaoolee](students/yaolee)                          |
 
 ### Faculty
 
