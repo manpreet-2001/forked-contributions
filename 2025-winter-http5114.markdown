@@ -7,15 +7,16 @@ Change added by original!
 
 ### Students
 
-|                                                    | Name                   | Profile                                             |
-| -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
-
+|                                       | Name        | Profile                          |
+| ------------------------------------- | ----------- | -------------------------------- |
+|![ChaitHaha](images/Chait.jpg)         | Chait Gehi  | [Chaithaha] (Student/Chait)
 
 ### Faculty
 
 |                                       | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
+
 
 [&#10132; Back to Class List](/)
 
