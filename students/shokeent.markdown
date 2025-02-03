@@ -1,5 +1,7 @@
 ## Tarun Shokeen
 
+![Tarun Shokeen](../images/shokeent.png)
+
 Hi Everyone, My Name Is Tarun Shokeen.
 
   
