@@ -6,6 +6,7 @@
 
 |                                                    | Name                   | Profile                                             |
 | -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
+![Tarun Shokeen](images/shokeent.png) | Tarun Shokeen | [Shokeent](students/shokeent) |
 
 
 ### Faculty
