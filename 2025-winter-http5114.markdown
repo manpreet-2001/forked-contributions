@@ -4,6 +4,9 @@
 
 Change added by original!
 
+This is my change.
+
+More changes from cloning.
 
 ### Students
 
@@ -16,7 +19,7 @@ Change added by original!
 
 |                                       | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
-| ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
+| ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) | 
 
 [&#10132; Back to Class List](/)
 
