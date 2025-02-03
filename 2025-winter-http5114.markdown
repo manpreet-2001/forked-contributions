@@ -9,6 +9,7 @@ Change added by original!
 
 |                                                    | Name                   | Profile                                             |
 | -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
+| ![Parjad Minooei](images/ParjadMinooei.jpg)        | Parjad Minooei         | [Parjad](students/parjad)
 
 
 ### Faculty
