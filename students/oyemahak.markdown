@@ -3,7 +3,7 @@
 ![Mahak Patel](../images/oyemahak.png)
 
 **GitHub:** [oyemahak](https://github.com/oyemahak)  
-**Portfolio:** [mahakpatel.wixstudio.com/portfolio](https://mahakpatel.wixstudio.com/portfolio)  
+**Portfolio:** [UX Portfolio](https://mahakpatel.wixstudio.com/portfolio)  
 
 ---
 
