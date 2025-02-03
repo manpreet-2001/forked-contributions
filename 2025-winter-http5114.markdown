@@ -4,15 +4,15 @@
 
 ### Students
 
-|                                                    | Name                   | Profile                                             |
-| -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
-
+|     | Name | Profile |
+| --- | ---- | ------- |
 
 ### Faculty
 
-|                                       | Name        | Profile                          |
-| ------------------------------------- | ----------- | -------------------------------- |
-| ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
+|                                       | Name           | Profile                                                               |
+| ------------------------------------- | -------------- | --------------------------------------------------------------------- |
+| ![Adam Thomas](images/codeadamca.png) | Adam Thomas    | [codeadamca](faculty/codeadamca)                                      |
+| ![Anna Charbadze](annacharbadze.jpg)  | Anna Charbadze | [Anna Charbadze](https://annacharbadze.github.io/Markdown-Portfolio/) |
 
 [&#10132; Back to Class List](/)
 
