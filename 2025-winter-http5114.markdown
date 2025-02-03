@@ -4,12 +4,11 @@
 
 Change added by original!
 
-
 ### Students
 
-|                                                    | Name                   | Profile                                             |
-| -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
-
+|                            | Name            | Profile                          |
+| -------------------------- | --------------- | -------------------------------- |
+| ![abjnr](images/abjnr.png) | Abraham Adeniyi | [abjnr](students/abjnr.markdown) |
 
 ### Faculty
 
