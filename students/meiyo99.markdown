@@ -16,7 +16,6 @@ Hi everyone, I'm Mayuresh! I'm a student in Web Development at Humber Polytechni
 
 | Project |                                                                                  |
 | ------- | -------------------------------------------------------------------------------- |
-| Flow    | [https://brickmmo.github.io/flow-about/](https://brickmmo.github.io/flow-about/) |
 | Tasks   | [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/)
 
  ![Mayuresh Naidu](/images/meiyo99.jpg)  Mayuresh Naidu | [meiyo99](/students/meiyo99) |
