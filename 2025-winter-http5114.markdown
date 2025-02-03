@@ -4,26 +4,25 @@
 
 Change added by original!
 
+=======
 This is my change.
 
 More changes from cloning.
 
 ### Students
 
-
-|                                                    | Name                   | Profile                                             |
-| -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
-| ![ParjadM](images/ParjadMinooei.jpg)        | Parjad Minooei         | [Parjad](students/parjad)
+|                                             | Name            | Profile                          |
+| ------------------------------------------- | --------------- | -------------------------------- |
+| ![Parjad Minooei](images/ParjadMinooei.jpg) | Parjad Minooei  | [Parjad](students/parjad)        |
+| ![abjnr](images/abjnr.png)                  | Abraham Adeniyi | [abjnr](students/abjnr) |
 | ![Anna Charbadze](images/annacharbadze.jpeg) | Anna Charbadze | [Anna Charbadze](https://annacharbadze.github.io/Markdown-Portfolio/) |
-
-
 
 
 ### Faculty
 
 |                                       | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
-| ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) | 
+| ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
 
 [&#10132; Back to Class List](/)
 
