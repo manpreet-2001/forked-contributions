@@ -6,7 +6,9 @@
 
 |                                                    | Name                   | Profile                                             |
 | -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
+|  ![Alyssa](images/alyssaak09.png)                  | Alyssa Austin          | [alyssaak09](student/alyssaak09)                    |
 
+[&#10132; Back to Class List](/)
 
 ### Faculty
 
