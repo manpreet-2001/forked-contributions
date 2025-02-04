@@ -13,7 +13,7 @@ More changes from cloning.
 
 |                                                    | Name                   | Profile                                             |
 | -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
-| ![ParjadM](images/ParjadM.jpg)                     | Parjad Minooei         | [Parjad](students/parjad)
+| ![ParjadM](images/ParjadM.jpg)                     | Parjad Minooei         | [Parjad](students/parjad)                           | 
 
 
 ### Faculty
