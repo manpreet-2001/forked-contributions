@@ -15,9 +15,7 @@ Portfolio: [https://github.com/Shokeent/markdown-portfolio.git](https://github.c
 
 | Project |
 | ------- |
-
 | Flow    | [https://brickmmo.github.io/flow-about/](https://brickmmo.github.io/flow-about/) |
-
 | Tasks   | [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/)                       |
 
 
