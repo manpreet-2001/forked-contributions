@@ -13,6 +13,7 @@ More changes from cloning.
 
 |                                                    | Name                   | Profile                                             |
 | -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
+| ![Tarun Shokeen](images/shokeent.png) | Tarun Shokeen | [Shokeent](students/shokeent) |
 | ![Ellie Dong](images/ellieDong.jpg) | Ellie Dong | [Elliedd-26](students/Elliedd-26) |
 | ![Parjad Minooei](images/ParjadM.jpg) | Parjad Minooei  | [Parjad](students/parjad)        |
 | ![abjnr](images/abjnr.png)                  | Abraham Adeniyi | [abjnr](students/abjnr) |

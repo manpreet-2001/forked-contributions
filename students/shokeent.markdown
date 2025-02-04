@@ -1,11 +1,12 @@
 ## Tarun Shokeen
 
+![Tarun Shokeen](../images/shokeent.png)
+
 Hi Everyone, My Name Is Tarun Shokeen.
 
   
 GitHub: [shokeent](https://github.com/Shokeent)  
-LinkedIn: [shokeentarun20](https://www.linkedin.com/in/shokeentarun20/)  
-LinkTree: [codeadamca](https://linktr.ee/codeadamca)  
+LinkedIn: [shokeentarun20](https://www.linkedin.com/in/shokeentarun20/)    
 Instagram: [__shokeen__](https://www.instagram.com/__shokeen__/)  
 
 ## Link To My Portfolio
