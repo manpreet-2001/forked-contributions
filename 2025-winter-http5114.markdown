@@ -12,6 +12,7 @@ More changes from cloning.
 
 |                                                    | Name                   | Profile                                             |
 | -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
+| ![Priyank Shah](images/Priyankshah01.jpeg) | Priyank Shah | [Priyankshah01](students/Priyankshah01) |
 | ![yaoolee](images/yaoolee.jpg)                     | Yao Tiem Lee           | [yaolee](students/yaolee)                          |
 | ![Tarun Shokeen](images/shokeent.png) | Tarun Shokeen | [Shokeent](students/shokeent) |
 | ![Ellie Dong](images/ellieDong.jpg) | Ellie Dong | [Elliedd-26](students/Elliedd-26) |
