@@ -4,7 +4,6 @@
 
 Change added by original!
 
-=======
 This is my change.
 
 More changes from cloning.
@@ -13,6 +12,7 @@ More changes from cloning.
 
 |                                                    | Name                   | Profile                                             |
 | -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
+| ![yaoolee](images/yaoolee.jpg)                     | Yao Tiem Lee           | [yaolee](students/yaolee)                          |
 | ![Tarun Shokeen](images/shokeent.png) | Tarun Shokeen | [Shokeent](students/shokeent) |
 | ![Ellie Dong](images/ellieDong.jpg) | Ellie Dong | [Elliedd-26](students/Elliedd-26) |
 | ![Parjad Minooei](images/ParjadM.jpg) | Parjad Minooei  | [Parjad](students/parjad)        |
