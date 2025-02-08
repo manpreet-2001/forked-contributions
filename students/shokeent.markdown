@@ -1,11 +1,12 @@
 ## Tarun Shokeen
 
+![Tarun Shokeen](../images/shokeent.png)
+
 Hi Everyone, My Name Is Tarun Shokeen.
 
   
 GitHub: [shokeent](https://github.com/Shokeent)  
-LinkedIn: [shokeentarun20](https://www.linkedin.com/in/shokeentarun20/)  
-LinkTree: [codeadamca](https://linktr.ee/codeadamca)  
+LinkedIn: [shokeentarun20](https://www.linkedin.com/in/shokeentarun20/)    
 Instagram: [__shokeen__](https://www.instagram.com/__shokeen__/)  
 
 ## Link To My Portfolio
@@ -14,9 +15,7 @@ Portfolio: [https://github.com/Shokeent/markdown-portfolio.git](https://github.c
 
 | Project |
 | ------- |
-
 | Flow    | [https://brickmmo.github.io/flow-about/](https://brickmmo.github.io/flow-about/) |
-
 | Tasks   | [https://tasks.brickmmo.com/](https://tasks.brickmmo.com/)                       |
 
 
