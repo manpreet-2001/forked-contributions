@@ -20,6 +20,9 @@ More changes from cloning.
 | ![abjnr](images/abjnr.png)                  | Abraham Adeniyi | [abjnr](students/abjnr) |
 | ![Anna Charbadze](images/annacharbadze.jpeg) | Anna Charbadze | [Anna Charbadze](https://annacharbadze.github.io/Markdown-Portfolio/) |
 
+| ![Ragini Shirwalkar](images/raginishirwalkar.jpg) | Ragini Shirwalkar | [raginis19](students/raginis19) |
+
+
 ### Faculty
 
 |                                       | Name        | Profile                          |
