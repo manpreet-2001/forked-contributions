@@ -27,6 +27,9 @@
 | ![Pallavi Kandikanti](images/Pallavikandikanti846.jpg) | Pallavi Kandikanti    | [Pallavikandikanti](students/Pallavikandikanti846) |
 
 
+| ![Ragini Shirwalkar](images/raginishirwalkar.jpg) | Ragini Shirwalkar | [raginis19](students/raginis19) |
+
+
 ### Faculty
 
 |                                       | Name        | Profile                          |
