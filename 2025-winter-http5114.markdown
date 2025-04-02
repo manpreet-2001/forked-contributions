@@ -22,7 +22,7 @@
 | ![Mayuresh Naidu](/images/meiyo99.jpg)                 | Mayuresh Naidu        | [meiyo99](student/meiyo99)                        |
 | ![Alyssa](images/alyssaak09.png)                       | Alyssa Austin         | [alyssaak09](student/alyssaak09)                  |
 | ![Bernard Owusu-Mensah](images/bernardowusumensah.png) | Bernard Owusu-Mensah  | [bernardowusumensah](student/bernardowusumensah)  |
-
+| ![Samuel Owusu](images/SamuelNii32.jpg)                | Samuel Owusu.         | [SamuelNii32](students/SamuelNii32).              |
 
 ### Faculty
 
