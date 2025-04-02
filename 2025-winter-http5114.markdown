@@ -18,6 +18,7 @@
 | ![Parjad Minooei](images/ParjadM.jpg).       | Parjad Minooei.  | [Parjad](students/parjad)                         |
 | ![abjnr](images/abjnr.png)                   | Abraham Adeniyi  | [abjnr](students/abjnr)                           |
 | ![ChaitHaha](images/Chait.jpg)               | Chait Gehi.      | [Chaithaha] (Student/Chait).                      |
+| ![Mayuresh Naidu](/images/meiyo99.jpg)       | Mayuresh Naidu   | [meiyo99](student/meiyo99)                        |
 
 
 ### Faculty
