@@ -8,6 +8,7 @@
 | -------------------------------------------- | ---------------- | ------------------------------------------------- |
 | ![Anna Charbadze](images/annacharbadze.jpeg) | Anna Charbadze   | [Anna Charbadze](students/annacharbadze.markdown) |
 | ![Mahak Patel](images/oyemahak.png)          | Mahak Patel      | [oyemahak](students/oyemahak)                     |
+| ![Baran Aslankan](images/baranaslankan.jpg)  | Baran Aslankan   | [baranaslankan](students/baranaslankan)           |
 | ![Parjad Minooei](images/ParjadMinooei.jpg)  | Parjad Minooei   | [Parjad](students/parjad)                         |
 | ![Fadel Matar ] )(images/fastodigama.jpg     | Fadel Matar      | [Fadel](students/fastodigama)                     |
 | ![Priyank Shah](images/Priyankshah01.jpeg)   | Priyank Shah     | [Priyankshah01](students/Priyankshah01)           |
