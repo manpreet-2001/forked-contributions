@@ -2,16 +2,12 @@
 
 ## Workshops in Web Development 1 - HTTP5114 - Fall 2023
 
-Change added by original!
-
-This is my change.
-
-More changes from cloning.
-
 ### Students
 
 |                                                    | Name                   | Profile                                             |
 | -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
+| ![Parjad Minooei](images/ParjadMinooei.jpg)        | Parjad Minooei         | [Parjad](students/parjad)
+| ![Fadel Matar ] )(images/fastodigama.jpg           | Fadel Matar            | [Fadel](students/fastodigama)                       |
 | ![Priyank Shah](images/Priyankshah01.jpeg) | Priyank Shah | [Priyankshah01](students/Priyankshah01) |
 | ![yaoolee](images/yaoolee.jpg)                     | Yao Tiem Lee           | [yaolee](students/yaolee)                          |
 | ![Tarun Shokeen](images/shokeent.png) | Tarun Shokeen | [Shokeent](students/shokeent) |
