@@ -17,12 +17,15 @@
 | ![Ellie Dong](images/ellieDong.jpg).         | Ellie Dong.      | [Elliedd-26](students/Elliedd-26)                 |
 | ![Parjad Minooei](images/ParjadM.jpg).       | Parjad Minooei.  | [Parjad](students/parjad)                         |
 | ![abjnr](images/abjnr.png)                   | Abraham Adeniyi  | [abjnr](students/abjnr)                           |
+| ![ChaitHaha](images/Chait.jpg)               | Chait Gehi.      | [Chaithaha] (Student/Chait).                      |
+
 
 ### Faculty
 
 |                                       | Name        | Profile                          |
 | ------------------------------------- | ----------- | -------------------------------- |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
+
 
 [&#10132; Back to Class List](/)
 
