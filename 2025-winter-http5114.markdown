@@ -26,6 +26,7 @@
 | ![Saahil Sayed](images/Saahil306.jpg)                  | Saahil Sayed.         | [Saahil306](student/Saahil306)                     |
 | ![Pallavi Kandikanti](images/Pallavikandikanti846.jpg) | Pallavi Kandikanti    | [Pallavikandikanti](students/Pallavikandikanti846) |
 
+
 ### Faculty
 
 |                                       | Name        | Profile                          |

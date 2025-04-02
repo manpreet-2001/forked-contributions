@@ -1,4 +1,5 @@
-This page Includes Information About me
+This page Includes Information About me, 
+As a student in Humber Polytechnic
 
 # Info
 **First Name: Parjad** 
@@ -6,7 +7,9 @@ This page Includes Information About me
 
 
 ## Profile Image
-![Parjad Minooei](../images/ParjadMinooei.jpg)
+![Parjad Minooei](../images/ParjadM.jpg)
+
+
 
 ## Contact Info
 - [Humber](n01686347@humber.ca)
