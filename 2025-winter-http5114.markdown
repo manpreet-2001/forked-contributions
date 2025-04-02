@@ -23,6 +23,7 @@
 | ![Alyssa](images/alyssaak09.png)                       | Alyssa Austin         | [alyssaak09](student/alyssaak09)                  |
 | ![Bernard Owusu-Mensah](images/bernardowusumensah.png) | Bernard Owusu-Mensah  | [bernardowusumensah](student/bernardowusumensah)  |
 | ![Samuel Owusu](images/SamuelNii32.jpg)                | Samuel Owusu.         | [SamuelNii32](students/SamuelNii32).              |
+| ![Saahil Sayed](images/Saahil306.jpg)                  | Saahil Sayed.         | [Saahil306](student/Saahil306)                    |
 
 ### Faculty
 
