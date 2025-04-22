@@ -29,6 +29,8 @@
 
 | ![Ragini Shirwalkar](images/raginishirwalkar.jpg) | Ragini Shirwalkar | [raginis19](students/raginis19) |
 
+| ![Emmanuel Inebode](images/emmanuel2020-bit.jpg) | Emmanuel Inebode | [emmanuel2020-bit](students/emmanuel2020-bit.png) |
+
 
 ### Faculty
 
