@@ -16,6 +16,7 @@ More changes from cloning.
 | ![Parjad Minooei](images/ParjadMinooei.jpg) | Parjad Minooei  | [Parjad](students/parjad)        |
 | ![abjnr](images/abjnr.png)                  | Abraham Adeniyi | [abjnr](students/abjnr) |
 | ![Anna Charbadze](images/annacharbadze.jpeg) | Anna Charbadze | [Anna Charbadze](https://annacharbadze.github.io/Markdown-Portfolio/) |
+| ![Gulzar Fatima](images/gulzarfatima.png)   | Gulzar Fatima   | [Gulzar Fatima](students/gulzarfatima) |
 
 
 ### Faculty
