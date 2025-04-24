@@ -10,9 +10,9 @@ More changes from cloning.
 
 ### Students
 
-|                                                    | Name                   | Profile                                             |
-| -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
-| ![Anjaney Binoj](images/anjaneybinoj.jpg) | Adam Thomas | [anjaneybinoj](students/anjaneybinoj.markdown) |
+
+
+| ![Anjaney Binoj](images/anjaneybinoj.jpg)          | Anjaney Binoj          | [anjaneybinoj](students/anjaneybinoj.markdown)      |
 
 ### Faculty
 
