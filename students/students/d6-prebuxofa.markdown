@@ -2,7 +2,9 @@
 
 ## Arun Kumar
 
-![Arun Kumar] (https://github.com/user-attachments/assets/0905b89e-28cf-49d5-b143-5e3bc2e84e55)
+![Arun Kumar](![images](https://github.com/user-attachments/assets/0cbf2bbb-e993-40ac-abbe-516c88cd776f)
+/d6-prebuxofa.jpg)
+
 
 
 Web Developer studying at Humber College.
