@@ -2,7 +2,7 @@
 
 ## Arun Kumar
 
-![Arun Kumar][images](https://github.com/user-attachments/assets/0905b89e-28cf-49d5-b143-5e3bc2e84e55)
+![Arun Kumar] (https://github.com/user-attachments/assets/0905b89e-28cf-49d5-b143-5e3bc2e84e55)
 
 
 Web Developer studying at Humber College.
