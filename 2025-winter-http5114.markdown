@@ -1,6 +1,6 @@
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-## Workshops in Web Development 1 - HTTP5114 - Fall 2023
+## Workshops in Web Development 1 - HTTP5114 - Winter 2025
 
 Change added by original!
 
@@ -12,7 +12,7 @@ More changes from cloning.
 
 |                                                    | Name                   | Profile                                             |
 | -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
-
+| ![Anjaney Binoj](images/anjaneybinoj.jpg) | Adam Thomas | [anjaneybinoj](students/anjaneybinoj.markdown) |
 
 ### Faculty
 
