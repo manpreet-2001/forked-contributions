@@ -2,7 +2,8 @@
 
 ## Arun Kumar 
 
-![Arun Kumar](![WhatsApp_Image_2025-03-16_at_12 00 18_a747fcf9_optimized_1000](https://github.com/user-attachments/assets/46fda6d5-a8c3-4a13-a9b3-462f76d17229)
+![Arun Kumar](![![software-developer-vector-12486656](https://github.com/user-attachments/assets/cfa311c7-8c41-4b4d-bdf9-c59caf6f8913)
+](https://github.com/user-attachments/assets/46fda6d5-a8c3-4a13-a9b3-462f76d17229)
 )
 
 Web Developer studying at Humber College.
