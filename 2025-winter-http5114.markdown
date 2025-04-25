@@ -1,6 +1,6 @@
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-## Workshops in Web Development 1 - HTTP5114 - Fall 2023
+## Workshops in Web Development 1 - HTTP5114 - Winter 2025
 
 ### Students
 
@@ -28,6 +28,7 @@
 | ![Pallavi Kandikanti](images/Pallavikandikanti846.jpg) | Pallavi Kandikanti    | [Pallavikandikanti](students/Pallavikandikanti846) |
 | ![Ragini Shirwalkar](images/raginishirwalkar.jpg)      | Ragini Shirwalkar     | [raginis19](students/raginis19)                    |
 | ![Emmanuel Inebode](images/emmanuel2020-bit.jpg)       | Emmanuel Inebode      | [emmanuel2020-bit](students/emmanuel2020-bit.png)  |
+| ![Anjaney Binoj](images/anjaneybinoj.jpg)              | Anjaney Binoj         | [anjaneybinoj](students/anjaneybinoj.markdown)     |
 
 ### Faculty
 
